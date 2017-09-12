@@ -21,13 +21,7 @@
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
                         </tr>
-                        <tr>
-                            <td style="width: 130px; height: 30px">
-                                Admin name</td>
-                            <td style="border-color: ">
-                                <asp:TextBox ID="txtàdminname" runat="server" Width="200px" CssClass="textbox" Height="30px"></asp:TextBox>
-                            </td>
-                        </tr>
+
                         <tr>
                             <td style="width: 130px; height: 30px">
                                 Admin password</td>
